@@ -65,7 +65,7 @@ Perfect for traders who want to automate their Polymarket strategy by following 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Trum3it/polymarket-copy-trading-bot.git
+git clone https://github.com/josephlopezh888/polymarket-copy-trading-bot
 cd polymarket-copy-trading-bot
 
 # Install dependencies
@@ -436,9 +436,8 @@ The authors and contributors are not responsible for any financial losses, damag
 
 ## 📞 Support & Contact
 
-- **Telegram**: [@trum3it](https://t.me/trum3it)
-- **Issues**: [GitHub Issues](https://github.com/your-username/polymarket-copy-trading-bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/your-username/polymarket-copy-trading-bot/discussions)
+- **Telegram**: [@josephlopezh888](https://t.me/josephlopezh888)
+
 
 ## 🌟 Star History
 

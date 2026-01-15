@@ -27,8 +27,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kinexbt/polymarket-trading-bot.git
-cd polymarket-trading-bot
+git clone https://github.com/josephlopezh888/polymarket-copy-trading-bot
+cd polymarket-copy-trading-bot
 ```
 
 2. Install dependencies:
@@ -424,7 +424,6 @@ docker stop polymarket-bot
 ## Support
 
 For issues and questions:
-- **Email:** piter.jb0817@gmail.com
-- **Telegram:** [@kinexbt](https://t.me/kinexbt)
-- **Twitter:** [@kinexbt](https://x.com/kinexbt)
+- **Telegram:** [@josephlopezh888](https://t.me/josephlopezh888)
+- **Twitter:** [@josephlopezh888](https://x.com/josephlopezh888)
 
