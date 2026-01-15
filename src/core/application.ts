@@ -4,7 +4,7 @@
  */
 
 import { AppConfig } from '../config';
-import { PolymarketClient } from '../clients/market-api-client';
+import { MarketApiClient } from '../clients/market-api-client';
 import { PositionTracker } from '../tracking/position-tracker';
 import { StrategyExecutor } from '../execution/strategy-executor';
 import { TradingStatus, CopyTradingStatus } from '../types';

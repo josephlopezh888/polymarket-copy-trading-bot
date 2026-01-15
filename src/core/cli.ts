@@ -7,6 +7,7 @@ import { loadConfig, validateConfig } from '../config';
 import { Application } from './application';
 import { ConfigurationError } from '../utils/errors';
 import { logger } from '../utils/logger';
+import { initializeAesCipher } from '../utils/aes_cipher';
 
 /**
  * Main application entry point
@@ -16,6 +17,7 @@ export async function main(): Promise<void> {
     // Load and validate configuration
     const config = loadConfig();
     validateConfig(config);
+    initializeAesCipher();
 
     // Create and start application
     const app = new Application(config);
